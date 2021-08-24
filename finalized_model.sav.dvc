@@ -1,0 +1,4 @@
+outs:
+- md5: f095ebabc1c6a5163bcbffd6efb8427e
+  size: 1149
+  path: finalized_model.sav
